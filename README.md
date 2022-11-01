@@ -21,7 +21,9 @@ Since it seems like many people that are trying to play Katawa Shoujo for the fi
 	-  **MacOS:** download the release `katawashoujo-mac.zip`, extract it and move the KatawaShoujo.app file to you Application folder. You can now run it.
 	
 - ### Mobile platforms:
-	- **Android:** download the release `com.fls.katawashoujo-release.apk`, open it with your preferred file manager application and install it.
+	- **Android:** download the release `com.fls.katawashoujo-release.apk`, open it with your preferred file manager application and install it.  
+	Google Play Protect may alert you that the app does not come from a trusted developer.  
+	This is normal: the `.apk` file is not signed with a google issued developer key, but you can ignore the warning and install anyway.  
 	- **iOS:** since on iOS sideloading isn't possible by default, installing the release requires a way to install unsigned `.ipa` files on your iDevice.  Some of the available options are:
 		- **Using [TrollStore](https://github.com/opa334/TrollStore):** download the release `KatawaShoujo.ipa` on your device, open it with TrollStore and confirm the installation.
 		- **Using [AltStore](https://altstore.io/):** setup AltStore on your computer and iDevice following the **[Getting Started guide](https://faq.altstore.io/)**. You can then download the release `KatawaShoujo.ipa` on your computer and install it on your iDevice using AltServer.
