@@ -5,7 +5,7 @@ The objective of this porting is to have a clean source code base that compiles 
 
 As of now, this project, using RenPy 8.0.3, correctly compiles and runs on:
  - Desktop platforms: Windows, Linux, MacOS 
- - Mobile platforms: Android, iOS 13+
+ - Mobile platforms: Android 5.0+, iOS 13+
 
 Unfortunately compiling on iOS still requires a minor hack/fix described later in this readme.
 
@@ -77,7 +77,9 @@ As of now, this porting has been tested on:
  - MacOS Monterey
  - iPad 8th (iOS 5.0.1)
  - Motorola Edge+ (Android 12)
+ - Motorola G4 Plus (Android 8.1)
  - ZTE Axon 7 (Android 7.1.2)
+ - Android Emulator (MEMU - Android 5.1.1)
  
 ## Credits
 All the assets belong to Four Leaf Studios, the original developers of Katawa Shoujo.  
