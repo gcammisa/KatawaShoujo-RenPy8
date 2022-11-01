@@ -78,6 +78,6 @@ As of now, this porting has been tested on:
  - iPad 8th (iOS 5.0.1)
  - Motorola Edge+ (Android 12)
 
-##Credits
+## Credits
 All the assets belong to Four Leaf Studios, the original developers of Katawa Shoujo.  
 This porting is not supported in any way by Four Leaf Studios and any problem with it **SHOULD NOT** be reported to them (open an issue on this github repo instead).
