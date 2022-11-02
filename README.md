@@ -46,7 +46,7 @@ Since it seems like many people that are trying to play Katawa Shoujo for the fi
  5. On the bottom right of the RenPy windows you'll find the release build for the various platforms. 
 
 
-For more details on compiling for **desktop platforms** please refer to the [**Building Distributions**](https://www.renpy.org/doc/html/build.html) page of the Renpy documentation for more details on compiling the project on desktop platforms.
+For more details on compiling for **desktop platforms** please refer to the [**Building Distributions**](https://www.renpy.org/doc/html/build.html) page of the Renpy documentation.
 
 For more details on compiling for **Android** please refer to the **[Building Android Applications](https://www.renpy.org/doc/html/android.html#building-android-applications)** section of the RenPy documentation.
 
