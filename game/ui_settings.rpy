@@ -3134,6 +3134,8 @@ init python:
     config.screen_width = 800
     config.screen_height = 600
 
+    ##Using software video decoding on Android, to allow for proper letterboxing
+    config.hw_video = False
     ##Specific mobile port settings to reduce crashes, especially on low specs devices
     if (renpy.ios or renpy.android):
         config.cache_surfaces = False
