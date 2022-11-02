@@ -55,7 +55,7 @@ If you're interested in compiling for **iOS** please make sure to thoroughly rea
 You should also have an at least basic knowledge of Xcode in relation to the iOS app compilation and signing process.
 
 ### iOS COMPILATION QUIRK:
-After generating the Xcode project from RenPy the `VideoPlayer.m` file in the root of the Xcode project needs to be patched to:
+After generating the Xcode project from RenPy, the `VideoPlayer.m` file in the root of the Xcode project needs to be patched to:
 
  1. properly close the player when a video finishes playing
  2. add the "long tap to skip the video" feature
@@ -75,7 +75,7 @@ As of now, this porting has been tested on:
  - Windows 11
  - Arch Linux
  - MacOS Monterey
- - iPad 8th (iOS 5.0.1)
+ - iPad 8th (iOS 15.0.1)
  - Motorola Edge+ (Android 12)
  - Motorola G4 Plus (Android 8.1)
  - ZTE Axon 7 (Android 7.1.2)
