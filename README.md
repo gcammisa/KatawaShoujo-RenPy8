@@ -51,7 +51,7 @@ For more details on compiling for **desktop platforms** please refer to the [**B
 For more details on compiling for **Android** please refer to the **[Building Android Applications](https://www.renpy.org/doc/html/android.html#building-android-applications)** section of the RenPy documentation.
 
 ## Compiling on iOS
-If you're interested in compiling for **iOS** please make sure to thoroughly read the [**iOS page**](https://www.renpy.org/doc/html/ios.html) of the RenPy documentation
+If you're interested in compiling for **iOS** please make sure to thoroughly read the [**iOS page**](https://www.renpy.org/doc/html/ios.html) of the RenPy documentation.  
 You should also have an at least basic knowledge of Xcode in relation to the iOS app compilation and signing process.
 
 ### iOS COMPILATION QUIRK:
